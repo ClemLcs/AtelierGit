@@ -1,0 +1,7 @@
+*.a 
+# Sauf lib.a
+!lib.a
+build/
+doc/*.txt
+
+fichier1.txt
